@@ -5,6 +5,4 @@ lo
 
 "test shimosaka"
 
-read
-
-read
+readme
