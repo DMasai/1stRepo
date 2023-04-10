@@ -6,3 +6,5 @@ lo
 "test shimosaka"
 
 read
+
+readme
